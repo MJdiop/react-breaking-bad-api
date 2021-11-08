@@ -1,4 +1,5 @@
 # React breaking bad API
 
-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
-Train with React JS with the breaking-bad API, using the example of [Brad Traversy](https://github.com/bradtraversy) as a model
+Train with React JS with the breaking-bad [API](https://breakingbadapi.com/documentation), using the example of [Brad Traversy](https://github.com/bradtraversy) as a model
+
+you can visit it 👉 [React breaking bad API](https://naughty-wright-0dcd49.netlify.app/) by [MJdiop](https://github.com/MJdiop)
